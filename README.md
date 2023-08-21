@@ -1,4 +1,4 @@
-# Semi_echo_LV_EF
+# Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning
 
 - Prepare your data.
 
